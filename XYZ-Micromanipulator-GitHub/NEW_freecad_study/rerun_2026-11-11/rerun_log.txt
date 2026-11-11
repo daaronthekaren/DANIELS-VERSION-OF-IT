@@ -1,0 +1,6 @@
+﻿FreeCAD 1.0.2 rev 39319 (Git)
+stored_paths post processor: linuxcnc args: --no-header --no-comments --no-show-editor
+stored_paths wrote stored_paths.gcode lines 1436 part allitems
+recomputed post processor: linuxcnc args: --no-header --no-comments --no-show-editor
+recomputed recompute invalid objects: []
+recomputed wrote recomputed.gcode lines 1431 part allitems

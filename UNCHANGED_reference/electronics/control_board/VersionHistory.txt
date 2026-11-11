@@ -1,0 +1,15 @@
+*** v1.3 ****************************
+
+ - Fixed critical problem with PCB layout, where 5V rail was shorted to GND on one of the diode pins of D1.
+ 
+*** v1.2 ****************************
+
+- added diode on 5V mcu supply to prevent motors from being powered backwards through the stepdown converter.
+
+*** v1.1 ****************************
+
+- Silkscreen on encoder connector was wrong: labels for CS1 and CS3 where swapped
+
+*** v1.0 ****************************
+
+Initial version
